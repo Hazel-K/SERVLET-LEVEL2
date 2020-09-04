@@ -1,5 +1,13 @@
 JSP SERVLET과 TOMCAT을 활용하여 기본 게시판 제작
 
+사용된 라이브러리
+ORACLE(ojdbc6), https://www.oracle.com/kr/database/technologies/112010-win64soft.html, 설치드라이브\app\Administrator\product\11.2.0\dbhome_1\jdbc\lib
+JSTL(jstl-1.2), https://tomcat.apache.org/taglibs/standard/
+TAGLIBS(taglibs-standard-impl-1.2.5), https://tomcat.apache.org/download-taglibs.cgi
+COS(cos), http://www.servlets.com/cos/
+AXIOS(CDN을 이용한 적용), <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+GSON(gson-2.8.6), https://github.com/google/gson
+
 적용된 기능
 1. 로그인/로그아웃
 2. 게시판 표시

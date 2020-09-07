@@ -1,4 +1,4 @@
-JSP SERVLET과 TOMCAT을 활용하여 기본 게시판 제작
+# JSP SERVLET과 TOMCAT을 활용하여 기본 게시판 제작
 
 사용된 라이브러리
 1. ORACLE(ojdbc6), https://www.oracle.com/kr/database/technologies/112010-win64soft.html, 설치드라이브\app\Administrator\product\11.2.0\dbhome_1\jdbc\lib
